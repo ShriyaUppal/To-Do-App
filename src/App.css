@@ -1,0 +1,29 @@
+*{
+  overflow: hidden;
+  background-color: azure;
+}
+
+input[type="text"]{
+  width: 77%;
+}
+
+input[type="date"]{
+  width: 95%;
+  margin-left: -27px;
+}
+
+.kg-button{
+  min-width: 80px;
+  margin-left: 55px;
+}
+
+.kg-button1{
+  min-width: 80px;
+  margin-left: -110px;
+}
+
+.kg-row{
+  margin: 10px 5px;
+}
+
+
